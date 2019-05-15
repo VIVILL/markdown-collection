@@ -7,6 +7,8 @@
 我这里是买的腾讯的1块钱一年的域名。
 买完并审核通过后 ，添加域名解析，即把域名指向网站空间IP。
 
+点击快速添加网站/邮箱解析，把购买的vps的ip地址填上去。结果如下图所示。
+
 ![](https://i.imgur.com/LFrSvTc.png)
 
 
@@ -182,7 +184,7 @@ wordpress会自动生成一篇hello world 文章。
 
 6.开启https。
 
-点击网站->设置中的SSL，直接申请Let's Encrypt。
+回到宝塔面板界面，点击网站->设置中的SSL，直接申请Let's Encrypt。
 
 ![](https://i.imgur.com/vLPmlKB.png)
 
