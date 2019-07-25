@@ -14,12 +14,17 @@
 然后在代理中点击浏览，添加代理。
 
 ![](https://i.imgur.com/ZF1UcUo.png)
+
 名称就随便写test，类型选SOCKS5，主机填127.0.0.1，端口填1080。
 
 具体如下所示。
+
 ![](https://i.imgur.com/AuQTNZi.png)
+
 然后代理服务器选中test。
+
 ![](https://i.imgur.com/SUCiTxR.png)
+
 设置完隧道和代理服务器后，在确保你可以访问外网情况下就可以通过x-shell连接上不可用ip的vps了。
 
 参考链接：
